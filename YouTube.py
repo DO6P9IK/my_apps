@@ -14,6 +14,3 @@ subprocess.run(
         url,
     ]
 )
-
-# /home/evgeniy/Видео/
-# https://youtu.be/RUnarFFpHOg?si=8GFjAPs-fcEH7yPL
